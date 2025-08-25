@@ -1,11 +1,21 @@
 # Summary
 
-- [Introduction](intro.md)
+- [Eldoria](intro.md)
   - Informations utiles
     - [Règlement en jeu](Informations/reglement-ig.md)
     - [Règlement discord](Informations/reglement-discord.md)
     - [Le lore d'Eldoria](Informations/lore.md)
     - [Les commandes utiles](Informations/commandes.md)
-  - [Démarrer](Demarrer/README.md)
+  - Démarrer
+    - [Démarrer son aventure](Demarrer/demarrer.md)
     - [Installation du modpack](Demarrer/installation.md)
     - [Configuration du chat de proximité](Demarrer/chat-proxy.md)
+  - Les races
+    - [Les races d'Eldoria](Races/races.md)
+    - [Les drakonides](Races/Drakonides.md)
+    - [Les elfes](Races/elfes.md)
+    - [Les merfolk](Races/merfolk.md)
+    - [Les nains](Races/nains.md)
+    - [Les orques](Races/orques.md)
+    - [Les humains](Races/humains.md)
+
