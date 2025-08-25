@@ -18,4 +18,13 @@
     - [Les nains](Races/nains.md)
     - [Les orques](Races/orques.md)
     - [Les humains](Races/humains.md)
+  - Gameplay
+    - [Introduction au gameplay](Gameplay/intro.md)
+    - [Animaux](Gameplay/animaux.md)
+    - [Armes](Gameplay/armes.md)
+    - [Armures](Gameplay/armures.md)
+    - [Biomes](Gameplay/biomes.md)
+    - [Boss](Gameplay/boss.md)
+    - [Dragons](Gameplay/dragons.md)
+    - [Villes](Gameplay/villes.md)
 
