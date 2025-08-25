@@ -4,7 +4,7 @@
   - Informations utiles
     - [Règlement en jeu](Informations/reglement-ig.md)
     - [Règlement discord](Informations/reglement-discord.md)
-    - [Le lore d'Eldoria](Informations/lore.md)
+    - [📖L'histoire d'Eldoria](Informations/lore.md)
     - [Les commandes utiles](Informations/commandes.md)
   - Démarrer
     - [Démarrer son aventure](Demarrer/demarrer.md)
