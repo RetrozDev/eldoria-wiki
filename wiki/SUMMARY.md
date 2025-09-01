@@ -6,8 +6,7 @@
     - [Règlement discord](Informations/reglement-discord.md)
     - [📖 L'histoire d'Eldoria](Informations/lore.md)
     - [Les commandes utiles](Informations/commandes.md)
-  - Démarrer
-    - [Démarrer son aventure](Demarrer/demarrer.md)
+  - [Démarrer](Demarrer/demarrer.md)
     - [Installation du modpack](Demarrer/installation.md)
     - [Configuration du chat de proximité](Demarrer/chat-proxy.md)
   - [Les races](Races/races.md)
@@ -18,13 +17,12 @@
     - [🌊 Les merfolk](Races/merfolk.md)
     - [🐉 Les drakonides](Races/drakonides.md)
     - [🧑‍🌾 Les humains](Races/humains.md)
-  - Gameplay
-    - [Introduction au gameplay](Gameplay/intro.md)
+  - [Gameplay](Gameplay/intro.md)
     - [🦁 Animaux](Gameplay/animaux.md)
     - [⚔️ Armes](Gameplay/armes.md)
     - [🛡️ Armures](Gameplay/armures.md)
     - [🌳 Biomes](Gameplay/biomes.md)
     - [👑 Boss](Gameplay/boss.md)
     - [🐲 Dragons](Gameplay/dragons.md)
-    - [Villes](Gameplay/villes.md)
+    - [🏘️ Villes](Gameplay/villes.md)
 
