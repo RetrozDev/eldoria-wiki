@@ -1,4 +1,4 @@
-# ⚔️ Armes Modées d’Eldoria
+# ⚔️ Armes  d’Eldoria
 
 Eldoria ne se limite pas aux armes classiques : grâce aux mods ajoutés, vous pouvez découvrir ou créer une large variété d’armes uniques.  
 Plus de **150 armes** sont disponibles, allant des **fléaux** et **katanas** aux **arcs et arbalètes**, chacune avec ses propres caractéristiques et mécaniques.  
