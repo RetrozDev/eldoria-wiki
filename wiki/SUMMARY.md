@@ -12,7 +12,7 @@
     - [Configuration du chat de proximité](Demarrer/chat-proxy.md)
   - Les races
     - [Les races d'Eldoria](Races/races.md)
-    - [Les drakonides](Races/Drakonides.md)
+    - [Les drakonides](Races/drakonides.md)
     - [Les elfes](Races/elfes.md)
     - [Les merfolk](Races/merfolk.md)
     - [Les nains](Races/nains.md)
