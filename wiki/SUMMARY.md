@@ -8,8 +8,10 @@
     - [📖 L'histoire d'Eldoria](Informations/lore.md)
     - [Les commandes utiles](Informations/commandes.md)
   - [Démarrer](Demarrer/demarrer.md)
-    - [Installation du modpack](Demarrer/installation.md)
-    - [Configuration du chat de proximité](Demarrer/chat-proxy.md)
+    - [⚙️ Installation du modpack](Demarrer/installation.md)  
+    - [🧙‍♂️ Sélectionner sa race](Demarrer/race.md)  
+    - [🎤 Configuration du chat de proximité](Demarrer/chat-proxy.md)
+
   - [Les races](Races/races.md)
     - [🌍 Les races d'Eldoria](Races/races.md)
     - [🪓 Les nains](Races/nains.md)
