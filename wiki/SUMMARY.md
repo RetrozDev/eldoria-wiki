@@ -21,7 +21,7 @@
   - Gameplay
     - [Introduction au gameplay](Gameplay/intro.md)
     - [🦁 Animaux](Gameplay/animaux.md)
-    - [Armes](Gameplay/armes.md)
+    - [⚔️ Armes](Gameplay/armes.md)
     - [Armures](Gameplay/armures.md)
     - [Biomes](Gameplay/biomes.md)
     - [Boss](Gameplay/boss.md)
