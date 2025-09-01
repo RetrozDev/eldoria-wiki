@@ -1,34 +1,45 @@
-# 🌍 Eldoria – Les Races
+# Les races d’Eldoria
 
-Eldoria est un royaume façonné par l’arrivée de cinq grandes races venues de Tharion, chacune possédant ses forces et ses particularités.  
-Mais bien avant leur arrivée, ces terres étaient déjà habitées par leurs autochtones : les Humains.
-
----
-
-## 🪓 [Les Nains – Durak-Tor](Nains)
-Maîtres des profondeurs et de la forge, les Nains vivent dans la pierre et le métal, robustes mais fragiles hors de leurs mines.
+Eldoria est un royaume façonné par l’arrivée de cinq grandes races venues de Tharion, chacune possédant ses forces et ses particularités :  
 
 ---
 
-## 🌿 [Les Elfes – Sylvaris](Elfes)
-Enfants des forêts, les Elfes glissent entre les arbres avec la légèreté du vent, archers hors pair et liés à la nature.
+## 🪓 Les Nains – Durak-Tor
+Maîtres des profondeurs, les Nains creusent la roche avec obstination et vivent au rythme de leurs forges. Leur force réside dans leur ténacité et leur maîtrise du métal.
+
+[En savoir plus](nains.md)
 
 ---
 
-## 🪖 [Les Orques – Krag’Thar](Orques)
-Forces de la nature sur les hautes-terres, les Orques imposent leur puissance et leur rage au combat, chaque bataille étant un rite de gloire.
+## 🌿 Les Elfes – Sylvaris
+Enfants des forêts, les Elfes glissent entre les arbres avec la légèreté du vent. Archers hors pair et liés à la nature, ils privilégient finesse et précision à la force brute.
+
+[En savoir plus](elfes.md)
 
 ---
 
-## 🌊 [Les Merfolk – Nerathis](Merfolk)
-Habitants des océans, les Merfolk se déplacent avec fluidité et rapidité, excellant dans l’eau mais vulnérables hors des flots.
+## 🪖 Les Orques – Krag’Thar
+Forces de la nature sur les hautes-terres, les Orques imposent leur puissance et leur rage au combat. Chaque bataille est pour eux un rite de gloire et de force.
+
+[En savoir plus](orques.md)
 
 ---
 
-## 🐉 [Les Drakonides – Pyrrath](Drakonides)
-Nés dans le feu et la lave, les Drakonides sont des créatures ardentes et redoutables, dont les attaques brûlent tout sur leur passage.
+## 🌊 Les Merfolk – Nerathis
+Habitants des océans, les Merfolk se déplacent avec la fluidité de l’eau. Rapides et insaisissables, ils excellent dans leur élément, mais leur puissance diminue hors des flots.
+
+[En savoir plus](merfolk.md)
 
 ---
 
-## 🧑‍🌾 [Les Humains – Eldoria](Humains)
-Habitants originels du royaume, les Humains ont façonné ces terres avant l’arrivée des autres races, adaptables et résilients.
+## 🐉 Les Drakonides – Pyrrath
+Nés dans le feu et la lave, les Drakonides sont des créatures ardentes et redoutables. Le feu coule dans leurs veines et leurs attaques brûlent tout sur leur passage.
+
+[En savoir plus](drakonides.md)
+
+---
+
+## 🧑‍🌾 Les Humains – Eldoria
+Habitants originels du royaume, les Humains ont façonné ces terres bien avant l’arrivée des autres races. Adaptables et résilients, ils sont le socle sur lequel Eldoria s’est construite.
+
+[En savoir plus](humains.md)
