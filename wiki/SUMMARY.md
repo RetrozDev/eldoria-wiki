@@ -3,7 +3,7 @@
 
 - [Eldoria](intro.md)
   - Informations utiles
-    - [Règlement ](Informations/reglement.md)
+    - [📜 Règlement](Informations/reglement.md)
     - [📖 L'histoire d'Eldoria](Informations/lore.md)
     - [Les commandes utiles](Informations/commandes.md)
   - [Démarrer](Demarrer/demarrer.md)

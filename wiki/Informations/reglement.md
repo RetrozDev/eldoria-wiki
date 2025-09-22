@@ -1,4 +1,4 @@
-# Règlement des Terres d’Eldoria
+# 📜 Règlement des Terres d’Eldoria
 
 ## 1. Respect et comportements
 - Toute insulte, humiliation ou mépris envers une personne, indépendamment de sa race ou de son rang, est interdite.  
