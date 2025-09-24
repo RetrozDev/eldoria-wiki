@@ -10,7 +10,7 @@ Pour profiter pleinement du serveur Eldoria, il est nécessaire d’installer le
 3. Lancez le modpack depuis CurseForge pour vérifier que tous les mods sont correctement chargés.  
 
 ### 🔹 Avec Modrinth Launcher
-1. Téléchargez le modpack **Eldoria** au format `.mrpack` ici : [Eldoria.mrpack](https://github.com/RetrozDev/eldoria-wiki/blob/main/assets/Eldoria.mrpack)  
+1. Téléchargez le modpack **Eldoria** au format `.mrpack` ici : [Eldoria.mrpack](https://github.com/RetrozDev/eldoria-wiki/raw/refs/heads/main/assets/Eldoria.mrpack)  
 2. Ouvrez le **launcher Modrinth**.  
 3. Cliquez sur **+ Nouvelle instance (petit + à gauche) → From file**.  
 4. Sélectionnez le `.mrpack` téléchargé → le modpack sera installé automatiquement.
