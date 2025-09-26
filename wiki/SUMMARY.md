@@ -5,7 +5,7 @@
   - Informations utiles
     - [📜 Règlement](Informations/reglement.md)
     - [📖 L'histoire d'Eldoria](Informations/lore.md)
-    - [Les commandes utiles](Informations/commandes.md)
+    - [⌨️ Les commandes utiles](Informations/commandes.md)
   - [Démarrer](Demarrer/demarrer.md)
     - [⚙️ Installation du modpack](Demarrer/installation.md)  
     - [🧙‍♂️ Sélectionner sa race](Demarrer/race.md)  
